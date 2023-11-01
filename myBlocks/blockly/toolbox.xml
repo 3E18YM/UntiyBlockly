@@ -1,0 +1,8 @@
+<category id="myBlocks" name="myBlocks">
+<category id="myCategory1" name="myCategory1">
+  <block type="animationplay">
+    <field name="AnimationClip">Idle</field>
+    <field name="BodyPart">FullBody</field>
+    <field name="NAME">0.5</field>
+  </block>
+</xml>
